@@ -1,4 +1,4 @@
-# Atividade — Node.js + Vue.js + Nuxt
+# Atividade - Node.js + Vue.js + Nuxt
 
 Projeto acadêmico baseado no repositório [nuxt-youtube](https://github.com/patrickmonteiro/nuxt-youtube).
 O objetivo é praticar o sistema de rotas do Nuxt criando uma nova página (`/cadastro`) com um formulário feito em Vue (Composition API, `v-model` e validação sem bibliotecas externas).
